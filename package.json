@@ -1,0 +1,26 @@
+{
+  "name": "sw-koa",
+  "version": "1.0.1",
+  "description": "sw-koa 是一个参照koa2洋葱模型实现的简易的koa轮子，用于了解koa原理...",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HXWfromDJTU/sw-koa.git"
+  },
+  "keywords": [
+    "koa",
+    "swain-wong"
+  ],
+  "author": "swain-wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HXWfromDJTU/sw-koa/issues"
+  },
+  "homepage": "https://github.com/HXWfromDJTU/sw-koa#readme"
+}
